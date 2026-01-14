@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory </b>
-  - [Praciting DS & Algos in Python](https://github.com/winbread/ActiveDirectoryLab)
+  - [Active Directory with Powershell](https://github.com/winbread/ActiveDirectoryLab)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
