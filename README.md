@@ -1,4 +1,4 @@
-<h1>Hi, Angel <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/aangelopez">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Angel <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/aangelopez">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,7 +9,8 @@
 
 <h2>📺 Certifications </h2>
 
-- Google Cybersecurity Professional Certificate
+- <b> Google Cybersecurity Professional </b>
+  - [Hands-on labs](https://github.com/winbread/GoogleCybSecProjects)
 
 
 <h2> 🤳 Connect with me:</h2>
